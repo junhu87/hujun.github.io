@@ -5,21 +5,21 @@ markdown: kramdown
 
 # 作者信息
 author: 
-  name: 李乾坤
-  email: qiankun.li@qq.com
+  name: 胡俊
+  email: jhk312@126.com
   link: 
   weibo: 
-  github: http://qiankunli.github.io
+  github: http://hujun.github.io
 
 # 站点信息
-title: 李乾坤的博客 
-description: 李乾坤的博客
-url: http://qiankunli.github.io
+title: 胡俊的博客 
+description: 胡俊的博客
+url: http://hujun.github.io
 rss_url: 
 
 # gavatar头像及Favicon
-gavatar: /public/upload/gavatar/gavatar.jpg
-favicon: /public/upload/gavatar/favicon.ico
+#gavatar: /public/upload/gavatar/gavatar.jpg
+#favicon: /public/upload/gavatar/favicon.ico
 
 # google analytics 设置
 google_analytics_tracking_id: UA-108442533-1
@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: qiankunli
+  shortname: hujun
 
 # gitment
 gitment:
